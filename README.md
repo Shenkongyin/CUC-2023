@@ -26,19 +26,19 @@
 
 共三个分支，三个漏洞，克隆对应分支，参考漏洞复现报告即可。
 
-1. [CVE-2021-27928 漏洞复现报告.md](https://github.com/Shenkongyin/CUC-2023/blob/MariaDB_CVE-2021-27928_Bash/MariaDB_CVE-2021-27928_Bash/漏洞复现报告.md)
+1. [CVE-2021-27928 漏洞复现报告.md](MariaDB_CVE-2021-27928_Bash/漏洞复现报告.md)
 
    ```sh
    git clone -b MariaDB_CVE-2021-27928_Bash --single-branch https://github.com/Shenkongyin/CUC-2023
    ```
 
-2. [CVE-2019-7580 漏洞复现报告.md](https://github.com/Shenkongyin/CUC-2023/blob/PHP_CVE-2019-7580_ThinkCMF/PHP_CVE-2019-7580_ThinkCMF/漏洞复现报告.md)
+2. [CVE-2019-7580 漏洞复现报告.md](PHP_CVE-2019-7580_ThinkCMF/漏洞复现报告.md)
 
    ```sh
    git clone -b PHP_CVE-2019-7580_ThinkCMF --single-branch https://github.com/Shenkongyin/CUC-2023
    ```
 
-3. [CVE-2022-28347 漏洞复现报告.md](https://github.com/Shenkongyin/CUC-2023/blob/Python_CVE-2022-28347_Django/Python_CVE-2022-28347_Django/漏洞复现报告.md)
+3. [CVE-2022-28347 漏洞复现报告.md](Python_CVE-2022-28347_Django/漏洞复现报告.md)
 
    ```sh
    git clone -b Python_CVE-2022-28347_Django --single-branch https://github.com/Shenkongyin/CUC-2023
