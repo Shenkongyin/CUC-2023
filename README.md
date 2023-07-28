@@ -34,13 +34,12 @@
 
 2. [CVE-2019-7580 漏洞复现报告.md](https://github.com/Shenkongyin/CUC-2023/blob/PHP_CVE-2019-7580_ThinkCMF/PHP_CVE-2019-7580_ThinkCMF/漏洞复现报告.md)
 
-   ```
+   ```sh
    git clone -b PHP_CVE-2019-7580_ThinkCMF --single-branch https://github.com/Shenkongyin/CUC-2023
    ```
 
 3. [CVE-2022-28347 漏洞复现报告.md](https://github.com/Shenkongyin/CUC-2023/blob/Python_CVE-2022-28347_Django/Python_CVE-2022-28347_Django/漏洞复现报告.md)
 
-```
-git clone -b Python_CVE-2022-28347_Django --single-branch https://github.com/Shenkongyin/CUC-2023
-```
-
+   ```sh
+   git clone -b Python_CVE-2022-28347_Django --single-branch https://github.com/Shenkongyin/CUC-2023
+   ```
